@@ -1,5 +1,4 @@
 # Portfolio Website - Vankudothu Chandra Shekhar
-![img alt](https://github.com/ChandraShekhar05/Portfolio/blob/main/passportsizephoto.jpg?raw=true)
 
 A modern, responsive portfolio website showcasing projects, skills, and professional information of a Computer Science graduate specializing in AI/ML.
 
@@ -60,4 +59,5 @@ A modern, responsive portfolio website showcasing projects, skills, and professi
   - CSS Animations (@keyframes)
   - Box-shadow effects
   - Responsive media queries
+    ![img alt](https://github.com/ChandraShekhar05/Portfolio/blob/main/passportsizephoto.jpg?raw=true)
 
